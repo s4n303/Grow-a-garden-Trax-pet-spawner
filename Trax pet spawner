@@ -91,7 +91,7 @@ local function createLanguageGUI()
 
     local titleLabel = Instance.new("TextLabel")
     titleLabel.Size = UDim2.new(1, 0, 0, 50)
-    titleLabel.Text = "Tiktok: jack._.827"
+    titleLabel.Text = "Tiktok: dunya_102939"
     titleLabel.TextColor3 = Color3.new(1, 1, 1)
     titleLabel.Font = Enum.Font.SourceSansBold
     titleLabel.TextSize = 24
@@ -118,7 +118,7 @@ local function createLanguageGUI()
     local soraniButton = Instance.new("TextButton")
     soraniButton.Size = UDim2.new(0.50, 0, 0.5, 0)
     soraniButton.Position = UDim2.new(0, 0, 0, 0)
-    soraniButton.Text = "سورانی"
+    soraniButton.Text = "سوران"
     soraniButton.TextColor3 = Color3.new(1, 1, 1)
     soraniButton.BackgroundColor3 = Color3.fromRGB(100, 0, 0)
     soraniButton.Font = Enum.Font.SourceSansBold
